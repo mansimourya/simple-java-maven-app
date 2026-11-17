@@ -1,5 +1,6 @@
 # simple-java-maven-app
 # TEST COMMENT
+# test comment 2
 
 
 This repository is for the
