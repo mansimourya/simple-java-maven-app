@@ -1,6 +1,7 @@
 # simple-java-maven-app
 # TEST COMMENT
 # test comment 2
+# Test comment 3 for pipeline 
 
 
 This repository is for the
